@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,6 @@
   "homepage": "https://github.com/PruthviKasula/ITIS-6177-Week-01#readme",
   "dependencies": {
     "express": "^4.17.2"
-  }
+  },
+  "keywords": []
 }
